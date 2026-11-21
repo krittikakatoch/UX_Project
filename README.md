@@ -3,8 +3,10 @@
 ### <WANDR>: <helps students and young adults discover interesting local events and activities that match their interests and make the most of their free time.>
 
 Student: <Krittika Katoch>  ·  Platform: <iOS | Android | responsive web>
-Figma design file: <link, "anyone with the link can view">
-FigJam research board: <link, "anyone with the link can view">
+Figma design file: <https://www.figma.com/design/OuUZtLqCViMuWkEomARSGy/ux-project-krittikakatoch?node-id=0-1&t=jz91gcvSK0sVnLmo-1
+, "anyone with the link can view">
+FigJam research board: <https://www.figma.com/board/NJVKAvnNzIHz0pElNSdfKN/ux-research-krittikakatoch?node-id=0-1&t=LwnCVhmM3h8fWOz0-1
+, "anyone with the link can view">
 Prototype: <link, from step 6>
 
 ### The idea in one sentence
