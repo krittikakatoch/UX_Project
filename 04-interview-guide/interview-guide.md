@@ -40,9 +40,7 @@ May I take notes during our conversation? I won't write down your name, and you 
 **Q10.** What do you usually do when you cannot find an event or information you're looking for?
 
 ### 08 · Ideal experience
-**Q11.** If finding and booking events had gone perfectly, what would have been different?
-
-**Q12.** Is there anything you wish was easier when discovering or booking events?
+**Q11.** Is there anything you wish was easier when discovering or booking events?
 
 ### 09 · Closing question
 Is there anything else about finding, choosing or attending events that I should have asked but didn't?
