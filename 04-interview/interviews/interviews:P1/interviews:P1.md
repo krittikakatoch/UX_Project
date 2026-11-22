@@ -67,3 +67,26 @@ About P1: 19, student, iPhone, attends events infrequently
 - **preferred:** Wants clear information, personalised notifications, widgets and minimal booking steps.
 - **surprised me:** Despite attending events infrequently, the participant expressed interest in receiving personalised event notifications.
 - **UX insight:** Users who attend events infrequently may need a convenient, personalised discovery experience that reduces the effort of finding relevant events and navigating the booking process.
+
+### Observation · Fever App
+
+**Main task:** Find a weekend event in Budapest and explore the booking process.
+
+**Total taps:** 32 taps  
+**Time taken:** Approximately 7 min 20 sec
+
+**Observation:**
+- **O1 · did:** Opened Fever and browsed the *For You* homepage, exploring event categories and recommendations.
+- **O2 · tapped:** Selected *Candlelight: Queen vs. ABBA* from the Black Friday section.
+- **O3 · did:** Explored the event details, including date, location, programme, performers, reviews and ticket information.
+- **O4 · tapped:** Selected *Get tickets* and chose Sunday, 29 November at 20:30.
+- **O5 · did:** Compared ticket zones, noticed that some options were sold out and selected Zone A.
+- **O6 · did:** Explored the add-ons and reached the checkout summary, where the final price was HUF 22,425.
+- **O7 · did:** Returned to browsing and explored category filters, search and other Candlelight events.
+- **O8 · struggled:** Used the AI assistant to find outdoor activities for Tuesday afternoon, but received no matching results.
+
+**Outcome:**
+- **Task completed:** Partially – found an event and explored the booking process.
+- **Main difficulty:** AI search failed to find outdoor activities.
+- **What worked:** Detailed event information and a straightforward booking flow.
+- **Key insight:** Fever makes discovering curated experiences easy, but its AI search and filters could be improved.
