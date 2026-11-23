@@ -11,5 +11,5 @@ FigJam research board: https://www.figma.com/board/NJVKAvnNzIHz0pElNSdfKN/ux-res
 WANDR helps students and young adults to discover local events and activities that match their interests when they are looking for something interesting to do in their free time.
 
 ### Status
-- [ ] Step 1 · Idea and references 
-- [ ] Step 2 · Benchmark and interviews 
+- Step 1 · Idea and references 
+- Step 2 · Benchmark and interviews 
