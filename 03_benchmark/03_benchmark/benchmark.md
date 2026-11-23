@@ -2,7 +2,7 @@
 
 Main task I tested: Find an interesting event in Budapest that I could attend.
 
-Device and width: iPhone 390 px, Chrome device mode.
+Device and width: iPhone 16, Chrome device mode.
 
 ## A: DICE
 
