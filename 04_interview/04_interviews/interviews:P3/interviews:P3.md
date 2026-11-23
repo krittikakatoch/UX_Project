@@ -17,7 +17,7 @@ About P3: 21, student, Iphone, attends events often, uses websites and Instagram
 - **did:** Switched between Instagram and the event website to find information.
 
 - **Q4 · asked:** Which apps, websites or other sources did you use?
-- **said:** "Boba Club, Instagram and websites."
+- **said:** "Instagram and websites."
 - **did:** Used Instagram and Boba Club's website to explore events.
 - **observation:** Relies on social media for discovery and websites for event information.
 
@@ -60,7 +60,7 @@ About P3: 21, student, Iphone, attends events often, uses websites and Instagram
 ## Overall observations
 
 - **observation:** Frequently attends events and discovers them through websites and Instagram pages.
-- **observation:** Uses Boba Club and Instagram to find events.
+- **observation:** Uses Instagram to find events.
 - **observation:** The audience, atmosphere, music and timing influence event selection.
 - **observation:** Price, location and date are the most important information before booking.
 - **workaround:** Switches between Instagram, websites and Google to find event information.
