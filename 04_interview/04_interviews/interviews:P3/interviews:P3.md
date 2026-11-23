@@ -18,7 +18,7 @@ About P3: 21, student, Iphone, attends events often, uses websites and Instagram
 
 - **Q4 · asked:** Which apps, websites or other sources did you use?
 - **said:** "Instagram and websites."
-- **did:** Used Instagram and Boba Club's website to explore events.
+- **did:** Used Instagram and website to explore events.
 - **observation:** Relies on social media for discovery and websites for event information.
 
 - **Q5 · asked:** What makes you decide whether an event is worth attending?
