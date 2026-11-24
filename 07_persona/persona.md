@@ -30,7 +30,7 @@ Find interesting events that match her interests and easily access all the detai
 - **Connectivity:** Uses online platforms, social media and search engines to find event information .
 
 ## Real Participant Quotes
- "We couldn't find the link." — P1
+"We couldn't find the link." — P1
 
 "Finding events that match my vibe and getting notifications about them." — P3
 
